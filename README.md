@@ -14,6 +14,11 @@
  - Conditionals and Booleans
  - Basic string indexing
 
+### RStudio Environment
+<a href="https://mybinder.org/v2/gh/dlemas/GMS6804-Spring2022-ORG/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252F${REPOSITORY_ACCOUNT}%252F${REPOSITORY_SLUG}%26targetPath%3DGMS6804-Spring2022%26urlpath%3Drstudio%252F%26branch%3Dmain">
+  <img src="https://mybinder.org/badge_logo.svg" alt="Launch Binder"/>
+</a>
+
 
 ## PreClass Assignment
 
